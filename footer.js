@@ -13,6 +13,11 @@ document.addEventListener("DOMContentLoaded", function () {
           <a href="sitemap.html" class="text-blue-600 underline">Sitemap</a>
         </div>
       </footer>
+
+      <p class="mt-4">
+     Questions? Email <span class="text-blue-600">hello [at] bgseprinciple [dot] com</span>
+    </p>    
+
     `;
     document.body.insertAdjacentHTML('beforeend', footerHTML);
   });
