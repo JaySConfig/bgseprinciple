@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>About – The BGSE Principle</title>
+  <meta name="description" content="Learn who created the BGSE Principle and why these frameworks exist.">
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-white text-gray-900 font-sans px-6 py-10 max-w-3xl mx-auto leading-relaxed">
+
+  <h1 class="text-4xl font-bold mb-6">About</h1>
+
+  <p class="mb-6">I’m someone who spent years dealing with manipulative family dynamics and boundary violations. Through that experience, I developed frameworks that helped me think clearly and protect my wellbeing.</p>
+
+  <p class="mb-6">These aren’t academic theories — they’re practical tools that worked for me in real situations. I’m sharing them because I wish someone had given me this clarity years ago.</p>
+
+  <p class="mb-6">I’m not a therapist or psychologist. I’m just someone who learned to recognise manipulation, set boundaries, and choose growth over comfort. If these frameworks help even one person avoid the stress and confusion I went through, then sharing them is worth it.</p>
+
+  <p class="mb-10 italic text-gray-700">Sometimes the most valuable insights come from people who’ve been in the trenches, not from textbooks.</p>
+
+  <div class="text-center mb-10">
+    <a href="index.html" class="text-blue-600 underline text-lg font-medium">← Back to Home</a>
+  </div>
+
+  <footer class="text-sm text-gray-500 border-t pt-6">
+    &copy; 2025 The BGSE Principle.
+  </footer>
+
+</body>
+</html>
